@@ -2,23 +2,23 @@
     <sys_sg_view_config action="INSERT_OR_UPDATE">
         <active>true</active>
         <advanced>false</advanced>
-        <description>Leave of absence  record screen card</description>
-        <name>Leave of absence  record screen card</name>
+        <description/>
+        <name>Leave of absence  Record ScreenCard</name>
         <scratchpad_script/>
         <sys_class_name>sys_sg_view_config</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-26 08:13:02</sys_created_on>
         <sys_id>14f8375bc323e110e5724ad9d001319d</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Leave of absence  record screen card</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Leave of absence  Record ScreenCard</sys_name>
         <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
         <sys_update_name>sys_sg_view_config_14f8375bc323e110e5724ad9d001319d</sys_update_name>
-        <sys_updated_by>chan.s</sys_updated_by>
-        <sys_updated_on>2023-07-28 09:59:45</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:41:44</sys_updated_on>
         <table>x_snc_wrkd_apr_mbl_leave_of_absence_database_view</table>
-        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+        <template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=14f8375bc323e110e5724ad9d001319d"/>
 </record_update>

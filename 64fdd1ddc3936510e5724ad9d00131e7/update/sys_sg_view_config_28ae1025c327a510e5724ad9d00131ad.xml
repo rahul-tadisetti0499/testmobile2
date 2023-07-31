@@ -2,23 +2,23 @@
     <sys_sg_view_config action="INSERT_OR_UPDATE">
         <active>true</active>
         <advanced>false</advanced>
-        <description>Spend authorization card</description>
-        <name>Spend authorization card</name>
+        <description/>
+        <name>Spend authorization view config</name>
         <scratchpad_script/>
         <sys_class_name>sys_sg_view_config</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-20 05:49:52</sys_created_on>
         <sys_id>28ae1025c327a510e5724ad9d00131ad</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Spend authorization card</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Spend authorization view config</sys_name>
         <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
         <sys_update_name>sys_sg_view_config_28ae1025c327a510e5724ad9d00131ad</sys_update_name>
-        <sys_updated_by>chan.s</sys_updated_by>
-        <sys_updated_on>2023-07-28 10:02:05</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:46:07</sys_updated_on>
         <table>sn_hr_workday_spend_authorization_request_todos</table>
-        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+        <template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=28ae1025c327a510e5724ad9d00131ad"/>
 </record_update>

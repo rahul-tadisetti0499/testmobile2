@@ -2,23 +2,23 @@
     <sys_sg_view_config action="INSERT_OR_UPDATE">
         <active>true</active>
         <advanced>false</advanced>
-        <description>Job Change record screen card</description>
-        <name>Job Change record screen card</name>
+        <description/>
+        <name>Job Change config</name>
         <scratchpad_script/>
         <sys_class_name>sys_sg_view_config</sys_class_name>
         <sys_created_by>abhi_user</sys_created_by>
         <sys_created_on>2023-06-07 11:09:28</sys_created_on>
         <sys_id>a31b6295c3976510e5724ad9d0013122</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_name>Job Change record screen card</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Job Change config</sys_name>
         <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
         <sys_update_name>sys_sg_view_config_a31b6295c3976510e5724ad9d0013122</sys_update_name>
-        <sys_updated_by>chan.s</sys_updated_by>
-        <sys_updated_on>2023-07-21 11:38:05</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:47:36</sys_updated_on>
         <table>x_snc_wrkd_apr_mbl_job_change_database_view</table>
-        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+        <template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=a31b6295c3976510e5724ad9d0013122"/>
 </record_update>

@@ -2,23 +2,23 @@
     <sys_sg_view_config action="INSERT_OR_UPDATE">
         <active>true</active>
         <advanced>false</advanced>
-        <description>Compensation change list screen card</description>
-        <name>Compensation change card</name>
+        <description/>
+        <name>Compensation change config</name>
         <scratchpad_script/>
         <sys_class_name>sys_sg_view_config</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-07 09:16:39</sys_created_on>
         <sys_id>cb41d695c31fa510fc27e92bb0013135</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Compensation change card</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Compensation change config</sys_name>
         <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
         <sys_update_name>sys_sg_view_config_cb41d695c31fa510fc27e92bb0013135</sys_update_name>
-        <sys_updated_by>chan.s</sys_updated_by>
-        <sys_updated_on>2023-07-21 11:35:01</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:36:48</sys_updated_on>
         <table>sn_hr_workday_compensation_change_request_todos</table>
-        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+        <template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=cb41d695c31fa510fc27e92bb0013135"/>
 </record_update>
