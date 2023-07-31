@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule">
+    <sys_sg_ui_rule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>commentISEMPTY</condition>
+        <name>Set Visibility</name>
+        <order>10</order>
+        <parent_id>276d69afc30c7d50fc27e92bb001315c</parent_id>
+        <parent_table>sys_sg_view_config</parent_table>
+        <reverse_if_false>false</reverse_if_false>
+        <sys_class_name>sys_sg_ui_rule</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-26 13:57:43</sys_created_on>
+        <sys_id>8e770967c327e110e5724ad9d00131e9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Set Visibility</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_8e770967c327e110e5724ad9d00131e9</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-21 14:13:20</sys_updated_on>
+        <trigger>fd680bd85b431010da168d8fa881c7c8</trigger>
+    </sys_sg_ui_rule>
+</record_update>

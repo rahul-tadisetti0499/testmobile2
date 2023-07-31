@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_05_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-12 10:04:18</sys_created_on>
+        <sys_id>56db2ea0c3803550fc27e92bb0013112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_05_element</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_56db2ea0c3803550fc27e92bb0013112</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:04:18</sys_updated_on>
+        <view_config display_value="Time off correction More details card">de37e5e5c3e7a510e5724ad9d001315c</view_config>
+        <view_template_slot display_value="text_05">940a8110c300f150fc27e92bb00131d7</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

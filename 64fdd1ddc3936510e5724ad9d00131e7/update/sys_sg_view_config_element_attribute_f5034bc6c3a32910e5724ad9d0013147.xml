@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>icon_01_TextValue</description>
+        <name display_value="TextValue">601f19c2b7321010df65f6efce11a925</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-22 07:05:05</sys_created_on>
+        <sys_id>f5034bc6c3a32910e5724ad9d0013147</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>601f19c2b7321010df65f6efce11a925</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_f5034bc6c3a32910e5724ad9d0013147</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-22 11:08:30</sys_updated_on>
+        <translated_value></translated_value>
+        <value/>
+        <view_config_element display_value="icon_01_element">e1034bc6c3a32910e5724ad9d0013145</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=f5034bc6c3a32910e5724ad9d0013147"/>
+</record_update>

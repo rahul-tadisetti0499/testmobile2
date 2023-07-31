@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>td_due_date</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>60</order>
+        <record_id_field/>
+        <screen display_value="About">123ee0e9c323e510fc27e92bb00131f8</screen>
+        <screen_data_item_table>x_snc_wrkd_apr_mbl_job_requisition_db_view</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 07:33:44</sys_created_on>
+        <sys_id>6056bca1c363e510fc27e92bb001318d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>td_due_date</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_screen_field_6056bca1c363e510fc27e92bb001318d</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-14 05:52:00</sys_updated_on>
+        <type>date</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

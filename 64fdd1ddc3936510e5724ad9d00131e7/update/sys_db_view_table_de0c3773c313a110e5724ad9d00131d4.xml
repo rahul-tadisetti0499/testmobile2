@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>true</left_join>
+        <order>300</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-15 11:28:15</sys_created_on>
+        <sys_id>de0c3773c313a110e5724ad9d00131d4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sn_hr_workday_workday_comment</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_db_view_table_de0c3773c313a110e5724ad9d00131d4</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2023-06-15 11:31:57</sys_updated_on>
+        <table>sn_hr_workday_workday_comment</table>
+        <variable_prefix>cm</variable_prefix>
+        <view display_value="x_snc_wrkd_apr_mbl_spend_autorization">bae0e7bfc39f6110e5724ad9d0013145</view>
+        <where_clause>cm_event_workday_id = td_workday_id</where_clause>
+    </sys_db_view_table>
+</record_update>

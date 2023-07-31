@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_variable">
+    <sys_sg_variable action="INSERT_OR_UPDATE">
+        <name>sys_id</name>
+        <parameter_screen display_value="Reject form screen">54d08bb7c35f6110e5724ad9d0013145</parameter_screen>
+        <parameter_section/>
+        <sys_class_name>sys_sg_variable</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-15 07:09:08</sys_created_on>
+        <sys_id>c1d0073bc35f6110e5724ad9d0013104</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_variable_c1d0073bc35f6110e5724ad9d0013104</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2023-06-15 07:09:08</sys_updated_on>
+        <type>db_field</type>
+    </sys_sg_variable>
+</record_update>

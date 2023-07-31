@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This template is used for approvals of workday tasks</description>
+        <name>Workday Approval Card Template</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-14 10:51:48</sys_created_on>
+        <sys_id>dde9c9ddc3803550e5724ad9d0013125</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Workday Approval Card Template</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_template_dde9c9ddc3803550e5724ad9d0013125</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-31 07:19:24</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16,"Right":16,"Left":16},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Id":"container_01","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":4},"CellId":"container_01","Children":[{"Type":"ViewGroup","Id":"container_02","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"CellId":"container_02","Children":[{"Type":"Text","TextColor":"#0B609D","Font":{"Name":"now-mobile-icons-cards","Size":24,"Weight":"regular"},"Id":"icon_01","CellId":"icon_01"},{"Type":"Text","TextColor":"#0B609D","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Margin":{"Left":4},"CellId":"due_date","Id":"due_date","TextAlignment":"Left"}]}]},{"Type":"ViewGroup","Id":"container_03","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"CellId":"container_03","Children":[{"Type":"ViewGroup","Id":"container_04","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"CellId":"container_04","Children":[{"Type":"Text","CellId":"static_text","Id":"static_text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","MaxLines":1,"TextAlignment":"Left"},{"Type":"Text","TextColor":"#333e3f","TextColorVariable":"--now-color_text--primary","MaxLines":1,"Margin":{"Left":4},"CellId":"req_approval_number","Id":"req_approval_number","TextAlignment":"Left"}]}]},{"Type":"ViewGroup","Id":"container_07","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"CellId":"container_07","Children":[{"Type":"ViewGroup","Id":"container_08","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"CellId":"container_08","Children":[{"Type":"Image","CellId":"requested_for_avatar","Id":"requested_for_avatar","Scaling":"Fill","Height":24,"Width":24,"CornerRadius":12,"Margin":{"Right":8},"cellIdImageItemViewInput":"requested_for_avatar"},{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Margin":{"Right":4},"CellId":"requested_for_text","Id":"requested_for_text","TextAlignment":"Left"},{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"CellId":"requested_for","Id":"requested_for","TextAlignment":"Left"}]}]},{"Type":"ViewGroup","Id":"container_09","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":4},"CellId":"container_09","Children":[{"Type":"ViewGroup","Id":"container_10","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"CellId":"container_10","Children":[{"Type":"Image","CellId":"ritm_requested_for_avatar","Id":"ritm_requested_for_avatar","Scaling":"Fill","Height":24,"Width":24,"CornerRadius":12,"Margin":{"Right":8}},{"Type":"Text","TextColor":"#333e3f","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Margin":{"Right":4},"CellId":"ritm_approval_text","Id":"ritm_approval_text","TextAlignment":"Left"},{"Type":"Text","TextColor":"#333e3f","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"CellId":"ritm_requested_for","Id":"ritm_requested_for","TextAlignment":"Left"}]}]}]}</template_json>
+    </sys_sg_view_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=dde9c9ddc3803550e5724ad9d0013125"/>
+</record_update>

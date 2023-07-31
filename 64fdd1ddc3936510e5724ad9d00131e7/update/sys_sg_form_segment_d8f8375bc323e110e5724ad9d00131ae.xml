@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="About">5cf8375bc323e110e5724ad9d00131ab</embedded_screen>
+        <form display_value="Leave of absence approval">14f8375bc323e110e5724ad9d00131a0</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-26 08:13:02</sys_created_on>
+        <sys_id>d8f8375bc323e110e5724ad9d00131ae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_form_segment_d8f8375bc323e110e5724ad9d00131ae</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2023-06-26 10:58:11</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

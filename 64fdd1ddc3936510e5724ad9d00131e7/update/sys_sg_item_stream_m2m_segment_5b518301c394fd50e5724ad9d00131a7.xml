@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Leave of absence list stream">5b514fcdc354fd50e5724ad9d001310e</item_stream>
+        <segment display_value="Leave of absence screen segment">13514fcdc354fd50e5724ad9d001310c</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 11:10:58</sys_created_on>
+        <sys_id>5b518301c394fd50e5724ad9d00131a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_5b518301c394fd50e5724ad9d00131a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 11:10:58</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

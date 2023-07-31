@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>req_approval_text_TextValue</description>
+        <name display_value="TextValue">601f19c2b7321010df65f6efce11a925</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-14 06:20:10</sys_created_on>
+        <sys_id>a2bb0051c3003550e5724ad9d00131fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>601f19c2b7321010df65f6efce11a925</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_a2bb0051c3003550e5724ad9d00131fa</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-14 06:20:10</sys_updated_on>
+        <translated_value>Time off approval</translated_value>
+        <value/>
+        <view_config_element display_value="req_approval_text_element">e2bb0051c3003550e5724ad9d00131f8</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=a2bb0051c3003550e5724ad9d00131fa"/>
+</record_update>

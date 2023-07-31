@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>Joins the multiple tables for Job Requisition approval use case.</description>
+        <label>Job requisition DB</label>
+        <name>x_snc_wrkd_apr_mbl_job_requisition_db_view</name>
+        <plural/>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 05:16:46</sys_created_on>
+        <sys_id>4c0750a9c3efa510fc27e92bb00131cb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_snc_wrkd_apr_mbl_job_requisition_db_view</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_db_view_4c0750a9c3efa510fc27e92bb00131cb</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-06 11:55:45</sys_updated_on>
+    </sys_db_view>
+</record_update>

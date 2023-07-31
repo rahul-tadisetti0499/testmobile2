@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description>Job requisition approval card</description>
+        <name>Job requisition approval card</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 05:40:06</sys_created_on>
+        <sys_id>e56c1cadc3efa510fc27e92bb00131c1</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Job requisition approval card</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_e56c1cadc3efa510fc27e92bb00131c1</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:41:26</sys_updated_on>
+        <table>sn_hr_workday_job_requisition_request_todos</table>
+        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=e56c1cadc3efa510fc27e92bb00131c1"/>
+</record_update>

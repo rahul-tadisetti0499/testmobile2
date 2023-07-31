@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Navigate to Workday Leave of absence function">73257867c3e3e110e5724ad9d0013102</button>
+        <color_theme/>
+        <description>Leave of absence approval Navigate to Workday function instance</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="MS icon-Web-Link-Solid">952ff10673b52010a59b4c5353f6a772</icon>
+        <label>View in Workday</label>
+        <location>top</location>
+        <name>Leave of absence approval Navigate to Workday function instance</name>
+        <order/>
+        <parent>14f8375bc323e110e5724ad9d00131a0</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-26 12:36:15</sys_created_on>
+        <sys_id>f3257867c3e3e110e5724ad9d0013105</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Leave of absence approval Navigate to Workday function instance</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f3257867c3e3e110e5724ad9d0013105</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 05:12:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f3257867c3e3e110e5724ad9d0013105"/>
+</record_update>

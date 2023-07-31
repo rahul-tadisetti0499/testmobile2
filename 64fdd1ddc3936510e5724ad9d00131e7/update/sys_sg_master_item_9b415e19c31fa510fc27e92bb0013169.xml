@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>sn_hr_workday_compensation_change_request_todos</datasource_table>
+        <datasource_table_condition table="sn_hr_workday_compensation_change_request_todos">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </datasource_table_condition>
+        <embedded_screen display_value="Compensation change approval">b360aa15c35fa510fc27e92bb00131d2</embedded_screen>
+        <item_view/>
+        <name>Compensation change List item config</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-07 09:16:40</sys_created_on>
+        <sys_id>9b415e19c31fa510fc27e92bb0013169</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Compensation change List item config</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_master_item_9b415e19c31fa510fc27e92bb0013169</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2023-07-06 09:07:35</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Compensation config">cb41d695c31fa510fc27e92bb0013135</view_config>
+    </sys_sg_master_item>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
+    <sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE">
+        <description>text_03_Typography</description>
+        <name display_value="Typography">30871ab9b701301096aa25efce11a925</name>
+        <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-11 06:59:59</sys_created_on>
+        <sys_id>28187010c3ccb150fc27e92bb0013175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>30871ab9b701301096aa25efce11a925</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_attribute_28187010c3ccb150fc27e92bb0013175</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-11 06:59:59</sys_updated_on>
+        <translated_value/>
+        <value>Headline</value>
+        <view_template_slot display_value="text_03">20187010c3ccb150fc27e92bb0013173</view_template_slot>
+    </sys_sg_view_template_slot_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=28187010c3ccb150fc27e92bb0013175"/>
+</record_update>

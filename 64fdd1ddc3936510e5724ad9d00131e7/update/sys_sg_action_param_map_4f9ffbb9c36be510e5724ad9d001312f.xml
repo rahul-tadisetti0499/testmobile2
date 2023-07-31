@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Timesheet approval approve function">6bfd77b9c36be510e5724ad9d001316a</button>
+        <item_parameter display_value="wd_sys_id">1344de17c3572110fc27e92bb001318b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>vits</sys_created_by>
+        <sys_created_on>2023-06-21 16:51:17</sys_created_on>
+        <sys_id>4f9ffbb9c36be510e5724ad9d001312f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1344de17c3572110fc27e92bb001318b</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4f9ffbb9c36be510e5724ad9d001312f</sys_update_name>
+        <sys_updated_by>vits</sys_updated_by>
+        <sys_updated_on>2023-06-21 16:51:17</sys_updated_on>
+        <ui_parameter display_value="Timesheet approval approve UI parameter">7e9ffbb9c36be510e5724ad9d001312c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

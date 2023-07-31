@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Workday Approval Mobile Time Off Request Todos Item">ed8ed511c3d36510e5724ad9d00131b8</data_item>
+        <interleaved_field/>
+        <name>Time Off Request Todos Item Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>vits</sys_created_by>
+        <sys_created_on>2023-06-07 05:35:00</sys_created_on>
+        <sys_id>909e1911c3d36510e5724ad9d0013173</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Request Todos Item Item Stream</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_909e1911c3d36510e5724ad9d0013173</sys_update_name>
+        <sys_updated_by>vits</sys_updated_by>
+        <sys_updated_on>2023-06-07 05:35:00</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Attachment function">a381e241c39cb190fc27e92bb0013172</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>View attachment</label>
+        <location>list_item</location>
+        <name>Job change attachments function instance</name>
+        <order/>
+        <parent>4f79f649c354fd50e5724ad9d00131fd</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 10:36:32</sys_created_on>
+        <sys_id>c3793a49c354fd50e5724ad9d0013101</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job change attachments function instance</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c3793a49c354fd50e5724ad9d0013101</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 10:36:32</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c3793a49c354fd50e5724ad9d0013101"/>
+</record_update>

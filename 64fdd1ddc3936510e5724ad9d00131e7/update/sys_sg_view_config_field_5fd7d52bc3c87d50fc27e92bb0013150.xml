@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_field">
+    <sys_sg_view_config_field action="INSERT_OR_UPDATE">
+        <name>due_date</name>
+        <sys_class_name>sys_sg_view_config_field</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-21 11:39:15</sys_created_on>
+        <sys_id>5fd7d52bc3c87d50fc27e92bb0013150</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>due_date</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_field_5fd7d52bc3c87d50fc27e92bb0013150</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-21 11:39:15</sys_updated_on>
+        <view_config display_value="Job change list screen card">08955295c3576510e5724ad9d00131a1</view_config>
+    </sys_sg_view_config_field>
+</record_update>

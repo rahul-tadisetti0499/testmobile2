@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <button display_value="Job requisition approve function">2e3ee82dc323e510fc27e92bb001311e</button>
+        <color_theme>positive</color_theme>
+        <description>Approve Job Requisition Approval Function Instance</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Approve</label>
+        <location>footer</location>
+        <name>Job requisition Approve function instance</name>
+        <order>10</order>
+        <parent>123ee0e9c323e510fc27e92bb00131f8</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 06:58:00</sys_created_on>
+        <sys_id>fa3ee82dc323e510fc27e92bb0013123</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Job requisition Approve function instance</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_fa3ee82dc323e510fc27e92bb0013123</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-28 06:57:09</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=fa3ee82dc323e510fc27e92bb0013123"/>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Leave of absence Record data item">cbf9bf5bc323e110e5724ad9d00131bd</data_item>
+        <description>Leave of absence Record Screen </description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Group">736e1111c3d36510e5724ad9d00131f2</icon>
+        <item_view/>
+        <name>Leave of absence approval</name>
+        <override_context_with_data_item>true</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-26 08:13:02</sys_created_on>
+        <sys_id>14f8375bc323e110e5724ad9d00131a0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Leave of absence approval</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_form_screen_14f8375bc323e110e5724ad9d00131a0</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2023-06-26 10:08:47</sys_updated_on>
+        <table/>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Leave of absence  Record ScreenCard">14f8375bc323e110e5724ad9d001319d</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=14f8375bc323e110e5724ad9d00131a0"/>
+</record_update>

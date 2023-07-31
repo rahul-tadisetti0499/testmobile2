@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>wd_id</name>
+        <parent>65232025c323e510fc27e92bb0013194</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 16:44:34</sys_created_on>
+        <sys_id>8b74bee5c3e7e510fc27e92bb00131f2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>wd_id</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_8b74bee5c3e7e510fc27e92bb00131f2</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-06 11:56:12</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>true</left_join>
+        <order>200</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-22 04:02:14</sys_created_on>
+        <sys_id>290956c6c3232910e5724ad9d0013108</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>sn_hr_workday_termination_request_todos_item</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_db_view_table_290956c6c3232910e5724ad9d0013108</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-06-22 04:06:14</sys_updated_on>
+        <table>sn_hr_workday_termination_request_todos_item</table>
+        <variable_prefix>tdt</variable_prefix>
+        <view display_value="x_snc_wrkd_apr_mbl_termination_approval_db">77b8dec6c3232910e5724ad9d00131d2</view>
+        <where_clause>tdt_workday_id = td_workday_id</where_clause>
+    </sys_db_view_table>
+</record_update>

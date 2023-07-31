@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Spend Authorization Line Item card template</description>
+        <name>Spend Authorization Line Item card template</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-20 12:03:08</sys_created_on>
+        <sys_id>90143dadc3e7a510e5724ad9d00131e1</sys_id>
+        <sys_mod_count>49</sys_mod_count>
+        <sys_name>Spend Authorization Line Item card template</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_template_90143dadc3e7a510e5724ad9d00131e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-24 10:31:27</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16,"Right":16,"Left":16},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Id":"container_02","CellId":"container_02","Margin":{},"Children":[{"Type":"Text","TextColor":"#293E40","MaxLines":2,"Id":"text_02","CellId":"text_02","Margin":{},"TextAlignment":"Left"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Id":"container_13","CellId":"container_13","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_14","CellId":"container_14","Children":[{"Type":"Text","TextColor":"#293E40","MaxLines":1,"Id":"text_03","CellId":"text_03","TextAlignment":"Right","Margin":{"Right":4}},{"Type":"Text","TextColor":"#293E40","MaxLines":1,"Id":"text_04","CellId":"text_04","TextAlignment":"Left"}]}]}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_04","CellId":"container_04","Margin":{"Left":5,"Top":5},"Children":[{"Type":"Text","TextColor":"#293E40","MaxLines":1,"Id":"text_05","CellId":"text_05","Margin":{"Right":10},"TextAlignment":"Left"},{"Type":"Text","TextColor":"#293E40","MaxLines":1,"Id":"text_07","CellId":"text_07","Margin":{"Left":2}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_05","CellId":"container_05","Margin":{"Left":5},"Children":[{"Type":"Text","TextColor":"#293E40","MaxLines":1,"Id":"text_10","CellId":"text_10","Margin":{"Right":10,"Bottom":20,"Top":10}},{"Type":"Text","TextColor":"#293E40","MaxLines":2,"Id":"text_11","CellId":"text_11","Margin":{"Top":10,"Bottom":20}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_10","CellId":"container_10","Margin":{},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Name":"now-mobile-icons-cards","Size":15,"Weight":"regular"},"Id":"icon_02","CellId":"icon_02","Margin":{"Left":5}},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_11","CellId":"container_11","Margin":{"Right":20,"Left":2},"Children":[{"Type":"Text","TextColor":"#293E40","MaxLines":1,"Id":"text_12","CellId":"text_12"}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_12","CellId":"container_12","Margin":{"Left":10},"Children":[{"Type":"Text","TextColor":"#293E40","MaxLines":1,"Id":"text_13","CellId":"text_13"}]}]}]}</template_json>
+    </sys_sg_view_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=90143dadc3e7a510e5724ad9d00131e1"/>
+</record_update>

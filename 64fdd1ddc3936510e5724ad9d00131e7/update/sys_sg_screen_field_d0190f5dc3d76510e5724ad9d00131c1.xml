@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>td_sys_created_on</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>80</order>
+        <record_id_field/>
+        <screen display_value="Job change approval">f1cd6259c3976510e5724ad9d00131c6</screen>
+        <screen_data_item_table>x_snc_wrkd_apr_mbl_job_change_database_view</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-07 13:20:55</sys_created_on>
+        <sys_id>d0190f5dc3d76510e5724ad9d00131c1</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>td_sys_created_on</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_screen_field_d0190f5dc3d76510e5724ad9d00131c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 05:01:41</sys_updated_on>
+        <type>date</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

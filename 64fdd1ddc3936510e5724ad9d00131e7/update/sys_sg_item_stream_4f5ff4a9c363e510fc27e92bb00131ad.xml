@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="More Details Data Item">fe5ff4a9c363e510fc27e92bb00131aa</data_item>
+        <interleaved_field/>
+        <name>More Details list stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 08:12:50</sys_created_on>
+        <sys_id>4f5ff4a9c363e510fc27e92bb00131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>More Details list stream</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_4f5ff4a9c363e510fc27e92bb00131ad</sys_update_name>
+        <sys_updated_by>abhi_user</sys_updated_by>
+        <sys_updated_on>2023-06-20 08:12:50</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

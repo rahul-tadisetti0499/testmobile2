@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Termination approve function ">1ae7a31fc3efa110e5724ad9d001315f</button>
+        <color_theme>positive</color_theme>
+        <description>Termination approval approve function instance</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Approve</label>
+        <location>footer</location>
+        <name>Termination approve function instance</name>
+        <order>10</order>
+        <parent>fda1aa8ec3232910e5724ad9d0013146</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-26 07:02:51</sys_created_on>
+        <sys_id>36172bdbc3efa110e5724ad9d00131c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Termination approve function instance</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_36172bdbc3efa110e5724ad9d00131c9</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-06-26 07:02:51</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=36172bdbc3efa110e5724ad9d00131c9"/>
+</record_update>

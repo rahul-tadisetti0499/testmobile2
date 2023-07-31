@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_04_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-22 04:29:28</sys_created_on>
+        <sys_id>de6f5e0ec3232910e5724ad9d001310b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_04_element</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_de6f5e0ec3232910e5724ad9d001310b</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-06-22 04:29:28</sys_updated_on>
+        <view_config display_value="Termination approval card">deab9e4ac3232910e5724ad9d00131f5</view_config>
+        <view_template_slot display_value="text_04">9b6eea51c39fa510fc27e92bb00131f6</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

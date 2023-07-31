@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>1000</max_offline_rows>
+        <name>More details screen segment</name>
+        <order/>
+        <screen display_value="More details">9465efe9c35fe510fc27e92bb001318f</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-08 10:13:36</sys_created_on>
+        <sys_id>03e7276dc35fe510fc27e92bb0013156</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>More details screen segment</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_03e7276dc35fe510fc27e92bb0013156</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-06 07:40:13</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

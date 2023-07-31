@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_wrkd_apr_mbl.WorkdayApprovalsMobileUtil</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>This script contains the utility and other supportive functions of Workday Approval Mobile application</description>
+        <name>WorkdayApprovalsMobileUtil</name>
+        <script><![CDATA[var WorkdayApprovalsMobileUtil = Class.create();
+WorkdayApprovalsMobileUtil.prototype = {
+    initialize: function() {},
+
+    // function is approving or rejecting the record based on the user input
+    approveRejectRequest: function(sys_id, State, userComment) {
+        var infoMessage = gs.getMessage("This request has been approved.");
+        var errorMessage = gs.getMessage("There was an error on our side completing the requested action. Please try again.");
+        var outputs = '';
+        var workdayId = '';
+        var requestRecord = new GlideRecord('sn_hr_workday_todo');
+        gs.info("Request Record is " + JSON.stringify(requestRecord));
+        requestRecord.addQuery('sys_id', sys_id);
+        requestRecord.query();
+        if (requestRecord.next()) {
+            workdayId = requestRecord.getValue('workday_id');
+            var inputs = {};
+            inputs['workday_id'] = workdayId;
+            inputs['comment'] = this.getUserDetails() + userComment;
+            if (State == 'approved') {
+                outputs = sn_fd.FlowAPI.executeAction('sn_workday_hr_spke.approve_business_process', inputs);
+            } else {
+                outputs = sn_fd.FlowAPI.executeAction('sn_workday_hr_spke.reject_business_process', inputs);
+                infoMessage = gs.getMessage("This request has been rejected.");
+            }
+            if (outputs.__action_status__.code == 0) {
+                requestRecord.state = State;
+                if (State == 'approved') {
+                    requestRecord.workday_status = 'approved';
+                } else {
+                    requestRecord.workday_status = 'denied';
+                }
+                if (requestRecord.update() == null) {
+                    gs.addErrorMessage(errorMessage);
+                } else {
+                    requestRecord.todo_state = 'complete';
+                    gs.addInfoMessage(infoMessage);
+                }
+            } else {
+                errorMessage = gs.getMessage("This request is no longer available here. It's been closed, assigned to someone else, or deleted in Workday.");
+                gs.addErrorMessage(errorMessage);
+            }
+        }
+    },
+
+    // function is used to fetch the user details 
+    getUserDetails: function() {
+        var userID = gs.getUserID();
+        var userGR = new GlideRecord('sys_user');
+        userGR.addQuery('sys_id', userID);
+        userGR.query();
+        if (userGR.next()) {
+            var name = userGR.getValue('name');
+            var email = userGR.getValue('email');
+            return name + " (" + email + ") : ";
+        } else
+            return '';
+    },
+    type: 'WorkdayApprovalsMobileUtil'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-12 08:02:46</sys_created_on>
+        <sys_id>d319e37ec3dba110e5724ad9d00131da</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name>WorkdayApprovalsMobileUtil</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_script_include_d319e37ec3dba110e5724ad9d00131da</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-28 06:44:33</sys_updated_on>
+    </sys_script_include>
+</record_update>

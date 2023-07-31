@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>ritm_approval_text_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 06:11:31</sys_created_on>
+        <sys_id>0d8667c2c3c07950fc27e92bb001315f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ritm_approval_text_element</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_0d8667c2c3c07950fc27e92bb001315f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 06:11:31</sys_updated_on>
+        <view_config display_value="Compensation change config">cb41d695c31fa510fc27e92bb0013135</view_config>
+        <view_template_slot display_value="ritm_approval_text">ade94dddc3803550e5724ad9d00131e4</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Time off Approval More details data Item</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Time off more details screen data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="sn_hr_workday_time_off_request_todos_item">workday_id={{wd_id}}^EQ<item endquery="false" field="workday_id" goto="false" newquery="false" operator="=" or="false" value="{{wd_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <query_condition_script><![CDATA[(function getQueryString(input) {
+	// Type appropriate comment here, and begin script below
+	gs.info("More details wd Id is "+JSON.stringify(input));
+	var queryString = 'assigned_toDYNAMIC'+gs.getUserID()+'^td_workday_id='+input.wd_id+'^td_active=true^td_todo_state=2';
+	return queryString;
+})(input);]]></query_condition_script>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-08 10:13:37</sys_created_on>
+        <sys_id>d7e7a3adc35fe510fc27e92bb0013163</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Time off more details screen data Item</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_data_item_d7e7a3adc35fe510fc27e92bb0013163</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-06 07:39:57</sys_updated_on>
+        <table>sn_hr_workday_time_off_request_todos_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d7e7a3adc35fe510fc27e92bb0013163"/>
+</record_update>

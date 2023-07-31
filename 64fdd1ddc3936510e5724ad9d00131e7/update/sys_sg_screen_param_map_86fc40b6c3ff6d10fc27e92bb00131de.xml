@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="wd_id">8b74bee5c3e7e510fc27e92bb00131f2</item_parameter>
+        <screen display_value="Job requisition approval">e923a025c323e510fc27e92bb00131a4</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-06 12:01:43</sys_created_on>
+        <sys_id>86fc40b6c3ff6d10fc27e92bb00131de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8b74bee5c3e7e510fc27e92bb00131f2</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_86fc40b6c3ff6d10fc27e92bb00131de</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-06 12:01:43</sys_updated_on>
+        <ui_parameter display_value="Workday ID">b9679d2dc3a3e510fc27e92bb00131e2</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

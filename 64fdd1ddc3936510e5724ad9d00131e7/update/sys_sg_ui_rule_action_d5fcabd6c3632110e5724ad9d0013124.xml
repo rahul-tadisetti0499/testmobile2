@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Date Formatter">867cdd017322201050f787086bf6a74b</operation>
+        <order>10</order>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-23 04:47:06</sys_created_on>
+        <sys_id>d5fcabd6c3632110e5724ad9d0013124</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_d5fcabd6c3632110e5724ad9d0013124</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-18 09:01:51</sys_updated_on>
+        <target>due_date</target>
+        <ui_rule display_value="Termination approval record Due Date formatter">83ec67d6c3632110e5724ad9d001315e</ui_rule>
+        <value>timeago("Overdue %d ", "Due in %d", true)</value>
+    </sys_sg_ui_rule_action>
+</record_update>

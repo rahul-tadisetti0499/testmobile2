@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Time off approval stream segment</name>
+        <order>0</order>
+        <screen display_value="Time off approval list screen">327e9511c3d36510e5724ad9d00131e3</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>vits</sys_created_by>
+        <sys_created_on>2023-06-07 05:34:39</sys_created_on>
+        <sys_id>ba7e9511c3d36510e5724ad9d00131e5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Time off approval stream segment</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_ba7e9511c3d36510e5724ad9d00131e5</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-06 07:27:17</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

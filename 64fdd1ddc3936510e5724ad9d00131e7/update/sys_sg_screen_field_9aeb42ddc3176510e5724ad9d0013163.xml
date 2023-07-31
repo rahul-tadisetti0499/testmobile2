@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>workday_status</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>30</order>
+        <record_id_field/>
+        <screen display_value="Timesheet approval details">4ccb06ddc3176510e5724ad9d001318d</screen>
+        <screen_data_item_table>sn_hr_workday_todo</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>vits</sys_created_by>
+        <sys_created_on>2023-06-07 08:53:08</sys_created_on>
+        <sys_id>9aeb42ddc3176510e5724ad9d0013163</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>workday_status</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_screen_field_9aeb42ddc3176510e5724ad9d0013163</sys_update_name>
+        <sys_updated_by>vits</sys_updated_by>
+        <sys_updated_on>2023-06-22 05:49:40</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

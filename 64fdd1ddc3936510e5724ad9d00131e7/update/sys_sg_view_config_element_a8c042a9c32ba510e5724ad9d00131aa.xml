@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_06_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-20 12:58:35</sys_created_on>
+        <sys_id>a8c042a9c32ba510e5724ad9d00131aa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>text_06_element</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_a8c042a9c32ba510e5724ad9d00131aa</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2023-06-22 10:43:01</sys_updated_on>
+        <view_config display_value="Spend Auth More Details Card">0989e169c3e7a510e5724ad9d00131ef</view_config>
+        <view_template_slot display_value="text_06">e3547f0ac3272910e5724ad9d0013180</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="sysId">4cbc1a0dc35cb190fc27e92bb001310e</item_parameter>
+        <screen display_value="Attachments">3d4b1a0dc35cb190fc27e92bb00131c1</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-26 08:54:45</sys_created_on>
+        <sys_id>7c22ae81c39cb190fc27e92bb0013172</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4cbc1a0dc35cb190fc27e92bb001310e</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_7c22ae81c39cb190fc27e92bb0013172</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-26 08:54:45</sys_updated_on>
+        <ui_parameter display_value="Sys ID">5de1aa81c39cb190fc27e92bb0013155</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

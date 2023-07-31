@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Timesheet approval":"Timesheet approval"}</icon>
+        <name>Timesheet approval record icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>vits</sys_created_by>
+        <sys_created_on>2023-06-07 08:47:33</sys_created_on>
+        <sys_id>24aa42ddc3176510e5724ad9d00131ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Timesheet approval record icon</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_icon_24aa42ddc3176510e5724ad9d00131ce</sys_update_name>
+        <sys_updated_by>vits</sys_updated_by>
+        <sys_updated_on>2023-06-07 08:47:33</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

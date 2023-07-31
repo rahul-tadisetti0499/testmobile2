@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Time off correction DB" language="en" table="x_snc_wrkd_apr_mbl_time_off_correction_db_views">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Time off correction DB</label>
+            <language>en</language>
+            <name>x_snc_wrkd_apr_mbl_time_off_correction_db_views</name>
+            <plural>Time off correction DBs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chan.s</sys_created_by>
+            <sys_created_on>2023-06-19 13:30:09</sys_created_on>
+            <sys_id>dd6efc5dc327a510fc27e92bb0013197</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Time off correction DB</sys_name>
+            <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_wrkd_apr_mbl_time_off_correction_db_views__en</sys_update_name>
+            <sys_updated_by>chan.s</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:21:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

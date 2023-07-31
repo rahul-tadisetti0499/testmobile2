@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Comment Detail Screen</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>dynamic_prefetch</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Comment Detail Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-12 12:03:48</sys_created_on>
+        <sys_id>7c67accfc3dfa110fc27e92bb0013163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comment Detail Screen</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_details_screen_7c67accfc3dfa110fc27e92bb0013163</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-06-12 12:03:48</sys_updated_on>
+        <table>sn_hr_workday_workday_comment</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7c67accfc3dfa110fc27e92bb0013163"/>
+</record_update>

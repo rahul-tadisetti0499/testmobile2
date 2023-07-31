@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>More details card template</description>
+        <name>Time Off Line Item Template</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-07-21 12:35:59</sys_created_on>
+        <sys_id>b7d465a7c30c7d50fc27e92bb001312d</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Time Off Line Item Template</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_template_b7d465a7c30c7d50fc27e92bb001312d</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-24 10:09:07</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16,"Left":16,"Right":16},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Id":"container_01","CellId":"container_01","Margin":{},"Children":[{"Type":"Text","TextColor":"#151920","MaxLines":2,"Id":"text_01","CellId":"text_01","TextAlignment":"Left"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Id":"container_02","CellId":"container_02","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_03","CellId":"container_03","Children":[{"Type":"Text","TextColor":"#151920","MaxLines":1,"Id":"text_02","CellId":"text_02","TextAlignment":"Right","Margin":{"Right":4}},{"Type":"Text","TextColor":"#151920","MaxLines":1,"Id":"text_03","CellId":"text_03","TextAlignment":"Left"}]}]}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_04","CellId":"container_04","Margin":{"Top":8},"Children":[{"Type":"Text","TextColor":"#2C323F","MaxLines":1,"Id":"text_04","CellId":"text_04","TextAlignment":"Left"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Id":"container_05","CellId":"container_05","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Name":"now-mobile-icons-cards","Size":24,"Weight":"regular"},"Id":"icon_01","CellId":"icon_01"}]}]}]}</template_json>
+    </sys_sg_view_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7d465a7c30c7d50fc27e92bb001312d"/>
+</record_update>

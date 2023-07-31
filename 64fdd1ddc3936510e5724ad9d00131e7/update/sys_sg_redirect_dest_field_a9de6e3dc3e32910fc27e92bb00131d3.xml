@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Time off correction comment function">fe2e263dc3e32910fc27e92bb00131ee</button>
+        <button_table>x_snc_wrkd_apr_mbl_time_off_correction_db_views</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Comment UI parameter">48936c0fc3dfa110fc27e92bb001312d</destination_ui_parameter>
+        <source_field>wc_workday_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-21 10:59:19</sys_created_on>
+        <sys_id>a9de6e3dc3e32910fc27e92bb00131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48936c0fc3dfa110fc27e92bb001312d</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_a9de6e3dc3e32910fc27e92bb00131d3</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-06-21 10:59:19</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

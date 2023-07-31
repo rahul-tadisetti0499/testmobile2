@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Job requisition approval navigate to workday">98e3503ec3ff6d10fc27e92bb00131fb</button>
+        <color_theme/>
+        <description>View in Workday (Job Requisition Approval)</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="MS icon-Web-Link-Solid">952ff10673b52010a59b4c5353f6a772</icon>
+        <label>View in Workday</label>
+        <location>top</location>
+        <name>View in Workday (Job Requisition Approval)</name>
+        <order/>
+        <parent>e923a025c323e510fc27e92bb00131a4</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 09:48:32</sys_created_on>
+        <sys_id>b84519a9c3a3e510fc27e92bb001316d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>View in Workday (Job Requisition Approval)</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b84519a9c3a3e510fc27e92bb001316d</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-06 12:32:46</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b84519a9c3a3e510fc27e92bb001316d"/>
+</record_update>

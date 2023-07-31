@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>icon_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-08 07:24:57</sys_created_on>
+        <sys_id>2c51c7edc3dbe510fc27e92bb00131ff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>icon_01_element</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_2c51c7edc3dbe510fc27e92bb00131ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:34:33</sys_updated_on>
+        <view_config display_value="Job Change config">a31b6295c3976510e5724ad9d0013122</view_config>
+        <view_template_slot display_value="icon_01">6de9c9ddc3803550e5724ad9d0013128</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

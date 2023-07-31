@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>abhi_user</sys_created_by>
+        <sys_created_on>2023-06-20 05:18:31</sys_created_on>
+        <sys_id>f6471ca9c3efa510fc27e92bb001312e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_hr_workday_job_requisition_request_todos</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_db_view_table_f6471ca9c3efa510fc27e92bb001312e</sys_update_name>
+        <sys_updated_by>abhi_user</sys_updated_by>
+        <sys_updated_on>2023-06-20 05:18:31</sys_updated_on>
+        <table>sn_hr_workday_job_requisition_request_todos</table>
+        <variable_prefix>td</variable_prefix>
+        <view display_value="x_snc_wrkd_apr_mbl_job_requisition_db_view">4c0750a9c3efa510fc27e92bb00131cb</view>
+        <where_clause/>
+    </sys_db_view_table>
+</record_update>

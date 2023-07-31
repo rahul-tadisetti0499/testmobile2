@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Time off Approve function ">c804b99bc3d32110fc27e92bb0013116</button>
+        <color_theme>positive</color_theme>
+        <description>Time off approval Approve function instance</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Approve</label>
+        <location>footer</location>
+        <name>Time off Approve function instance</name>
+        <order>10</order>
+        <parent>327e9511c3d36510e5724ad9d00131e5</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-13 12:12:21</sys_created_on>
+        <sys_id>be72bd5bc3d32110fc27e92bb0013192</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Time off Approve function instance</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_be72bd5bc3d32110fc27e92bb0013192</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-07-20 09:24:45</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=be72bd5bc3d32110fc27e92bb0013192"/>
+</record_update>

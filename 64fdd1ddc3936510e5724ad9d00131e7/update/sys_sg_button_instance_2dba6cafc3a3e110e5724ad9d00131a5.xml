@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Termination Reject function">0a6ba0efc3a3e110e5724ad9d001319b</button>
+        <color_theme>destructive</color_theme>
+        <description>Termination reject function instance</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Reject</label>
+        <location>footer</location>
+        <name>Termination reject function instance</name>
+        <order>5</order>
+        <parent>fda1aa8ec3232910e5724ad9d0013146</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>chan.s</sys_created_by>
+        <sys_created_on>2023-06-26 11:57:57</sys_created_on>
+        <sys_id>2dba6cafc3a3e110e5724ad9d00131a5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Termination reject function instance</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2dba6cafc3a3e110e5724ad9d00131a5</sys_update_name>
+        <sys_updated_by>chan.s</sys_updated_by>
+        <sys_updated_on>2023-06-26 12:04:29</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2dba6cafc3a3e110e5724ad9d00131a5"/>
+</record_update>

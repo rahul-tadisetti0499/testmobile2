@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
+    <sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE">
+        <description>icon_02_TextValue</description>
+        <name display_value="TextValue">601f19c2b7321010df65f6efce11a925</name>
+        <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-22 07:00:17</sys_created_on>
+        <sys_id>ebe103c6c3a32910e5724ad9d0013189</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>601f19c2b7321010df65f6efce11a925</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_attribute_ebe103c6c3a32910e5724ad9d0013189</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-22 12:20:27</sys_updated_on>
+        <translated_value></translated_value>
+        <value/>
+        <view_template_slot display_value="icon_02">53e103c6c3a32910e5724ad9d0013187</view_template_slot>
+    </sys_sg_view_template_slot_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=ebe103c6c3a32910e5724ad9d0013189"/>
+</record_update>
