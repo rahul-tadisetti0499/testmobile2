@@ -4,7 +4,7 @@
         <datasource_table>sn_hr_workday_compensation_change_request_todos</datasource_table>
         <datasource_table_condition table="sn_hr_workday_compensation_change_request_todos">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
         </datasource_table_condition>
-        <embedded_screen display_value="Compensation change approval">b360aa15c35fa510fc27e92bb00131d2</embedded_screen>
+        <embedded_screen display_value="Compensation change ">b360aa15c35fa510fc27e92bb00131d2</embedded_screen>
         <item_view/>
         <name>Compensation change List item config</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
@@ -20,6 +20,6 @@
         <sys_updated_by>Sakshi</sys_updated_by>
         <sys_updated_on>2023-07-06 09:07:35</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Compensation config">cb41d695c31fa510fc27e92bb0013135</view_config>
+        <view_config display_value="Compensation change config">cb41d695c31fa510fc27e92bb0013135</view_config>
     </sys_sg_master_item>
 </record_update>

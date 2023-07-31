@@ -2,7 +2,7 @@
     <sys_sg_form_screen action="INSERT_OR_UPDATE">
         <alert/>
         <available_offline>false</available_offline>
-        <data_item display_value="Spend Auth Record data item">6156e4a9c327a510e5724ad9d00131e4</data_item>
+        <data_item display_value="Spend authorization Record data item">6156e4a9c327a510e5724ad9d00131e4</data_item>
         <description>Spend authorization  Record Screen</description>
         <dynamic_prefetch_count/>
         <empty_state/>
@@ -32,7 +32,7 @@
         <sys_updated_on>2023-07-06 09:59:18</sys_updated_on>
         <table/>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Spend Auth Record Screen view config">3d56e4a9c327a510e5724ad9d00131e6</view_config>
+        <view_config display_value="Spend authorization Record Screen view config">3d56e4a9c327a510e5724ad9d00131e6</view_config>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=0656e4a9c327a510e5724ad9d00131e9"/>
 </record_update>

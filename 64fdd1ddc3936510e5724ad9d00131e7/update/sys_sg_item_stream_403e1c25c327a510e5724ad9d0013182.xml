@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Spend Auth Data item">372e1c25c327a510e5724ad9d001317f</data_item>
+        <data_item display_value="">372e1c25c327a510e5724ad9d001317f</data_item>
         <interleaved_field/>
         <name>Spend Auth list stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

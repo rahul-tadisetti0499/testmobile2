@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>sn_hr_workday_todo</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Timesheet approval record">59aa42ddc3176510e5724ad9d00131d5</embedded_screen>
+        <embedded_screen display_value="Timesheet approval">59aa42ddc3176510e5724ad9d00131d5</embedded_screen>
         <item_view/>
         <name>Timesheet approval list item config</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
@@ -19,6 +19,6 @@
         <sys_updated_by>vits</sys_updated_by>
         <sys_updated_on>2023-06-07 11:42:28</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Timesheet approval new card">3211bad9c3976510e5724ad9d0013161</view_config>
+        <view_config display_value="Timesheet approval card">3211bad9c3976510e5724ad9d0013161</view_config>
     </sys_sg_master_item>
 </record_update>

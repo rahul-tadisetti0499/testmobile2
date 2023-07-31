@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_791724a5c323e510fc27e92bb0013104</sys_update_name>
         <sys_updated_by>abhi_user</sys_updated_by>
         <sys_updated_on>2023-06-20 06:26:48</sys_updated_on>
-        <view_config display_value="Job Requisition Approval config card">69232025c323e510fc27e92bb0013197</view_config>
+        <view_config display_value="Job requisition approval record card">69232025c323e510fc27e92bb0013197</view_config>
         <view_template_slot display_value="text_06">7d1b7ae9c3dbe510fc27e92bb0013199</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

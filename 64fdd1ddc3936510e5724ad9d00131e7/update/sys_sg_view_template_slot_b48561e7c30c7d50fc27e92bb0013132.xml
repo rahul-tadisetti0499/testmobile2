@@ -14,6 +14,6 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-21 12:38:46</sys_updated_on>
         <type>text</type>
-        <view_template display_value="More details card template-copy">b7d465a7c30c7d50fc27e92bb001312d</view_template>
+        <view_template display_value="Time Off Line Item Template">b7d465a7c30c7d50fc27e92bb001312d</view_template>
     </sys_sg_view_template_slot>
 </record_update>

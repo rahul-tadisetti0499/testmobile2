@@ -14,6 +14,6 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-14 10:39:39</sys_updated_on>
         <type>image</type>
-        <view_template display_value="Catalog Approval Template-copy">97a6c41dc3ccf150e5724ad9d00131e4</view_template>
+        <view_template display_value="">97a6c41dc3ccf150e5724ad9d00131e4</view_template>
     </sys_sg_view_template_slot>
 </record_update>

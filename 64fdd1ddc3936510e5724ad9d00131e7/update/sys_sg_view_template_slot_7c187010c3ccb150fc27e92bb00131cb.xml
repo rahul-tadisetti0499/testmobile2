@@ -14,6 +14,6 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-11 07:00:00</sys_updated_on>
         <type>text</type>
-        <view_template display_value="More details card template-copy">ac187010c3ccb150fc27e92bb001316f</view_template>
+        <view_template display_value="">ac187010c3ccb150fc27e92bb001316f</view_template>
     </sys_sg_view_template_slot>
 </record_update>

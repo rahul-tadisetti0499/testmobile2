@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_a8c042a9c32ba510e5724ad9d00131aa</sys_update_name>
         <sys_updated_by>Sakshi</sys_updated_by>
         <sys_updated_on>2023-06-22 10:43:01</sys_updated_on>
-        <view_config display_value="Spend Auth More Details Card">0989e169c3e7a510e5724ad9d00131ef</view_config>
+        <view_config display_value="Spend Authorization Line Item Card">0989e169c3e7a510e5724ad9d00131ef</view_config>
         <view_template_slot display_value="text_06">e3547f0ac3272910e5724ad9d0013180</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

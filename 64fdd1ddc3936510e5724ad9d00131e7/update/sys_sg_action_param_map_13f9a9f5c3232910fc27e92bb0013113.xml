@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="Time off Correction Approve">e275e9f1c3232910fc27e92bb001313d</button>
+        <button display_value="Time off correction Approve function">e275e9f1c3232910fc27e92bb001313d</button>
         <item_parameter display_value="wd_sys_id">1344de17c3572110fc27e92bb001318b</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>

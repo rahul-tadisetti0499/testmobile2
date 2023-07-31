@@ -5,7 +5,7 @@
         <max_offline_rows>1000</max_offline_rows>
         <name>Job change approval Screen Segment </name>
         <order/>
-        <screen display_value="Job Change Attachment">254de201c354fd50e5724ad9d00131b8</screen>
+        <screen display_value="Attachments">254de201c354fd50e5724ad9d00131b8</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-26 09:43:12</sys_created_on>

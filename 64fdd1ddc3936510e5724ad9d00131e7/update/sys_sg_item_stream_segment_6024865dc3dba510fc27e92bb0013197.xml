@@ -5,7 +5,7 @@
         <max_offline_rows>1000</max_offline_rows>
         <name>Compensation change Screen Segment</name>
         <order/>
-        <screen display_value="Compensation change">57c6fd51c3dba510fc27e92bb0013143</screen>
+        <screen display_value="Compensation change list screen">57c6fd51c3dba510fc27e92bb0013143</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-07 08:19:08</sys_created_on>

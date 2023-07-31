@@ -19,6 +19,6 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-07 06:08:28</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Time off correction More details card">de37e5e5c3e7a510e5724ad9d001315c</view_config>
+        <view_config display_value="Time Off Correction Line Item Card">de37e5e5c3e7a510e5724ad9d001315c</view_config>
     </sys_sg_master_item>
 </record_update>

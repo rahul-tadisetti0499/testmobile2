@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Approve">c804b99bc3d32110fc27e92bb0013116</button>
+        <button display_value="Time off Approve function ">c804b99bc3d32110fc27e92bb0013116</button>
         <button_parent_table>x_snc_wrkd_apr_mbl_time_off_approvals_db</button_parent_table>
         <carried>false</carried>
         <constant/>

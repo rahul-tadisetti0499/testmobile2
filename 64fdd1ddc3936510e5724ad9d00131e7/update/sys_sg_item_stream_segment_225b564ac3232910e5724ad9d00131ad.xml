@@ -5,7 +5,7 @@
         <max_offline_rows>1000</max_offline_rows>
         <name>Termination approval screen segment</name>
         <order/>
-        <screen display_value="Termination approval">da5b564ac3232910e5724ad9d00131a9</screen>
+        <screen display_value="Termination approval list screen">da5b564ac3232910e5724ad9d00131a9</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>
         <sys_created_on>2023-06-22 04:11:43</sys_created_on>

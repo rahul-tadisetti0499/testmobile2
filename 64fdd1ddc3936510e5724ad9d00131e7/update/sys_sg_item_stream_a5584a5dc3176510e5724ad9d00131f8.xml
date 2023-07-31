@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Timesheet Approval data item">d1584a5dc3176510e5724ad9d00131f5</data_item>
+        <data_item display_value="Timesheet approval data item">d1584a5dc3176510e5724ad9d00131f5</data_item>
         <interleaved_field/>
         <name>Timesheet approval list stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

@@ -5,7 +5,7 @@
         <hidden>false</hidden>
         <order>20</order>
         <record_id_field/>
-        <screen display_value="Timesheet approval details">4ccb06ddc3176510e5724ad9d001318d</screen>
+        <screen display_value="About">4ccb06ddc3176510e5724ad9d001318d</screen>
         <screen_data_item_table>sn_hr_workday_todo</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>vits</sys_created_by>

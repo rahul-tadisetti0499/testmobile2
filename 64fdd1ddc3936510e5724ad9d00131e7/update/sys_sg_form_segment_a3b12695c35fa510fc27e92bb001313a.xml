@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Compensation Change">93b12695c35fa510fc27e92bb0013137</embedded_screen>
-        <form display_value="Compensation Change Record Screen">b360aa15c35fa510fc27e92bb00131d2</form>
+        <embedded_screen display_value="About">93b12695c35fa510fc27e92bb0013137</embedded_screen>
+        <form display_value="Compensation change ">b360aa15c35fa510fc27e92bb00131d2</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

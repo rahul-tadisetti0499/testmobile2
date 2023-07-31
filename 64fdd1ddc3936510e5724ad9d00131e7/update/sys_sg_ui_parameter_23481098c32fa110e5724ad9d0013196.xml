@@ -18,7 +18,7 @@
         <order/>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="Spend authorization approval record screen">c7489058c32fa110e5724ad9d00131dc</screen>
+        <screen display_value="">c7489058c32fa110e5724ad9d00131dc</screen>
         <search_type>starts_with</search_type>
         <source_field>workday_id</source_field>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>

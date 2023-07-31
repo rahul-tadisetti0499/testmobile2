@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
-        <item_parameter display_value="SysID">70bdaa01c354fd50e5724ad9d0013144</item_parameter>
-        <screen display_value="Job Change Attachment">254de201c354fd50e5724ad9d00131b8</screen>
+        <item_parameter display_value="sysId">70bdaa01c354fd50e5724ad9d0013144</item_parameter>
+        <screen display_value="Attachments">254de201c354fd50e5724ad9d00131b8</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-26 09:45:58</sys_created_on>
@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_screen_param_map_56edee01c354fd50e5724ad9d00131f4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-26 09:45:58</sys_updated_on>
-        <ui_parameter display_value="SysID">2d4d2a01c354fd50e5724ad9d0013193</ui_parameter>
+        <ui_parameter display_value="sysId">2d4d2a01c354fd50e5724ad9d0013193</ui_parameter>
     </sys_sg_screen_param_map>
 </record_update>

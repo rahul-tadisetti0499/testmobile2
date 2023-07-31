@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
-        <item_stream display_value="Compensation Change">1524865dc3dba510fc27e92bb001319d</item_stream>
-        <master_item display_value="New list item config">9b415e19c31fa510fc27e92bb0013169</master_item>
+        <item_stream display_value="Compensation change List Stream">1524865dc3dba510fc27e92bb001319d</item_stream>
+        <master_item display_value="Compensation change List item config">9b415e19c31fa510fc27e92bb0013169</master_item>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-07 09:16:41</sys_created_on>

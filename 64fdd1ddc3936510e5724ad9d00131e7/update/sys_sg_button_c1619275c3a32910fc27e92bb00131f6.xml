@@ -71,7 +71,7 @@
         <type>write_back</type>
         <unhighlighted_icons/>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Reject Action item DB">28d0c33bc35f6110e5724ad9d00131fd</write_back_action_item>
+        <write_back_action_item display_value="Reject Action item">28d0c33bc35f6110e5724ad9d00131fd</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=c1619275c3a32910fc27e92bb00131f6"/>

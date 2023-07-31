@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="cm_wk_id">fea2200fc3dfa110fc27e92bb0013101</item_parameter>
-        <screen display_value="Comment Record Screen">afb1a0cbc3dfa110fc27e92bb00131c8</screen>
+        <screen display_value="Comment ">afb1a0cbc3dfa110fc27e92bb00131c8</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>
         <sys_created_on>2023-06-12 12:02:18</sys_created_on>

@@ -14,6 +14,6 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-11 06:32:17</sys_updated_on>
         <type>image</type>
-        <view_template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</view_template>
+        <view_template display_value="">eca07458c38cb150fc27e92bb001317e</view_template>
     </sys_sg_view_template_slot>
 </record_update>

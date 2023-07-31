@@ -18,7 +18,7 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-24 10:06:58</sys_updated_on>
         <table>sn_hr_workday_time_off_request_todos_item</table>
-        <template display_value="More details card template-copy">b7d465a7c30c7d50fc27e92bb001312d</template>
+        <template display_value="Time Off Line Item Template">b7d465a7c30c7d50fc27e92bb001312d</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=276d69afc30c7d50fc27e92bb001315c"/>
 </record_update>

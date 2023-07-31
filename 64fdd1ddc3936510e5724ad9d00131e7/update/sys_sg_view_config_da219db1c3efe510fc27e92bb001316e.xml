@@ -18,7 +18,7 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-14 13:12:06</sys_updated_on>
         <table>x_snc_wrkd_apr_mbl_time_off_correction_db_views</table>
-        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+        <template display_value="Workday Approval Card Template">dde9c9ddc3803550e5724ad9d0013125</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=da219db1c3efe510fc27e92bb001316e"/>
 </record_update>

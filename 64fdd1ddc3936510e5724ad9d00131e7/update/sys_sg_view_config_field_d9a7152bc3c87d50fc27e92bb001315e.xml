@@ -13,6 +13,6 @@
         <sys_update_name>sys_sg_view_config_field_d9a7152bc3c87d50fc27e92bb001315e</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-21 11:38:19</sys_updated_on>
-        <view_config display_value="Job Change record screen card">a31b6295c3976510e5724ad9d0013122</view_config>
+        <view_config display_value="Job Change config">a31b6295c3976510e5724ad9d0013122</view_config>
     </sys_sg_view_config_field>
 </record_update>

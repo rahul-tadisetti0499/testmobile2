@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Job Change Attachment">254de201c354fd50e5724ad9d00131b8</embedded_screen>
+        <embedded_screen display_value="Attachments">254de201c354fd50e5724ad9d00131b8</embedded_screen>
         <form display_value="Job change approval">331b6295c3976510e5724ad9d0013125</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>

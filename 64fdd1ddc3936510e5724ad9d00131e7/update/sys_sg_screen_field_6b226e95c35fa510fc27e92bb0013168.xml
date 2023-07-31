@@ -5,7 +5,7 @@
         <hidden>false</hidden>
         <order>30</order>
         <record_id_field/>
-        <screen display_value="Compensation Change">93b12695c35fa510fc27e92bb0013137</screen>
+        <screen display_value="About">93b12695c35fa510fc27e92bb0013137</screen>
         <screen_data_item_table>sn_hr_workday_compensation_change_request_todos</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="About">660504a1c3e3a510e5724ad9d0013171</embedded_screen>
-        <form display_value="Time off correction app record screen">13283f19c3a3a510e5724ad9d001311f</form>
+        <form display_value="">13283f19c3a3a510e5724ad9d001311f</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

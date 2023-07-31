@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
-        <item_stream display_value="Spend authorization approval list stream">3fd21494c32fa110e5724ad9d001313a</item_stream>
+        <item_stream display_value="">3fd21494c32fa110e5724ad9d001313a</item_stream>
         <master_item display_value="Spend authorization approval item config">d3481098c32fa110e5724ad9d0013193</master_item>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Details">327e9511c3d36510e5724ad9d00131e5</embedded_screen>
-        <form display_value="Time Off Request Todos Form Screen">727e9511c3d36510e5724ad9d00131e4</form>
+        <embedded_screen display_value="About">327e9511c3d36510e5724ad9d00131e5</embedded_screen>
+        <form display_value="Time off approval ">727e9511c3d36510e5724ad9d00131e4</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

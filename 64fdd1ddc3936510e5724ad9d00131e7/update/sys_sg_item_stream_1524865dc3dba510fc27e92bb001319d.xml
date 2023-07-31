@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Compensation Change data item">b424865dc3dba510fc27e92bb001319a</data_item>
+        <data_item display_value="Compensation change data item">b424865dc3dba510fc27e92bb001319a</data_item>
         <interleaved_field/>
         <name>Compensation change List Stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Time off Correction Approve">e275e9f1c3232910fc27e92bb001313d</button>
+        <button display_value="Time off correction Approve function">e275e9f1c3232910fc27e92bb001313d</button>
         <button_parent_table>x_snc_wrkd_apr_mbl_time_off_correction_db_views</button_parent_table>
         <carried>false</carried>
         <constant/>

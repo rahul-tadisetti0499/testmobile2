@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Time off Correction Approve">e275e9f1c3232910fc27e92bb001313d</button>
+        <button display_value="Time off correction Approve function">e275e9f1c3232910fc27e92bb001313d</button>
         <color_theme>positive</color_theme>
         <description>Time off correction Approve function instance</description>
         <disable_offline>false</disable_offline>

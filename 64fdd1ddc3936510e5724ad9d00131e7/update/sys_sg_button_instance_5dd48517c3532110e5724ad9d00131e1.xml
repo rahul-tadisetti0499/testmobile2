@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="JobChangeURL">d7d0c513c3532110e5724ad9d001318c</button>
+        <button display_value="Job change approval Navigate to Workday">d7d0c513c3532110e5724ad9d001318c</button>
         <color_theme/>
         <description>Job change approval Navigate to Workday function instance</description>
         <disable_offline>false</disable_offline>

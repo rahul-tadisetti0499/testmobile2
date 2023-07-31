@@ -15,7 +15,7 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-19 05:36:00</sys_updated_on>
         <target>due_date</target>
-        <ui_rule display_value="Compensation Change Due Date Formatter">74a5ed79c3a3e510e5724ad9d00131fc</ui_rule>
+        <ui_rule display_value="Compensation Change Record Due Date Formatter">74a5ed79c3a3e510e5724ad9d00131fc</ui_rule>
         <value>timeago("Overdue %d", "Due in %d", true)</value>
     </sys_sg_ui_rule_action>
 </record_update>

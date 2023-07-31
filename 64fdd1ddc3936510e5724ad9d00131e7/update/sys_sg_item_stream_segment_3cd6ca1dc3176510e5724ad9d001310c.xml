@@ -5,7 +5,7 @@
         <max_offline_rows>600</max_offline_rows>
         <name>Job Change Screen Segment</name>
         <order>10</order>
-        <screen display_value="Job Change">98d6461dc3176510e5724ad9d0013149</screen>
+        <screen display_value="Job change list screen">98d6461dc3176510e5724ad9d0013149</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>abhi_user</sys_created_by>
         <sys_created_on>2023-06-07 08:30:54</sys_created_on>

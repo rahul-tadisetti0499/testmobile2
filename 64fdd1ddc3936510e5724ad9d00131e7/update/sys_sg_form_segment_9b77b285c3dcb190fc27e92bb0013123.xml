@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Time off correction attachments screen">8b77b285c3dcb190fc27e92bb0013120</embedded_screen>
+        <embedded_screen display_value="Attachments">8b77b285c3dcb190fc27e92bb0013120</embedded_screen>
         <form display_value="Time off correction approval">ea219db1c3efe510fc27e92bb0013171</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>

@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_07ed4ea2c3003950e5724ad9d00131c0</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-18 13:01:25</sys_updated_on>
-        <view_config display_value="Timesheet approval new card">3211bad9c3976510e5724ad9d0013161</view_config>
+        <view_config display_value="Timesheet approval card">3211bad9c3976510e5724ad9d0013161</view_config>
         <view_template_slot display_value="ritm_approval_text">ade94dddc3803550e5724ad9d00131e4</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="Job Change Workday Approve Request">436aabedc35fe510fc27e92bb00131b5</button>
+        <button display_value="Job change approval  Approve Request">436aabedc35fe510fc27e92bb00131b5</button>
         <item_parameter display_value="wd_sys_id">1344de17c3572110fc27e92bb001318b</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>abhi_user</sys_created_by>

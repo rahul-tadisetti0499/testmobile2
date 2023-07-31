@@ -5,7 +5,7 @@
         <max_offline_rows>500</max_offline_rows>
         <name>Time Off Request Todos Item Item Stream Segment</name>
         <order>0</order>
-        <screen display_value="Time Off Request Todos Items">409e1911c3d36510e5724ad9d0013171</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>vits</sys_created_by>
         <sys_created_on>2023-06-07 05:35:00</sys_created_on>

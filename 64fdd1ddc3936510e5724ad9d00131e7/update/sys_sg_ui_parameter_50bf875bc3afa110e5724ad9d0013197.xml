@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Time off approval comment function 2">89694f17c3afa110e5724ad9d00131c6</button>
+        <button display_value="Time off comment function">89694f17c3afa110e5724ad9d00131c6</button>
         <button_parent_table>sn_hr_workday_time_off_request_todos_item</button_parent_table>
         <carried>false</carried>
         <constant/>

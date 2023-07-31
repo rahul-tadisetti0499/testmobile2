@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>sn_hr_workday_correct_time_off_request_todos</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Time off correction approval record screen">ea219db1c3efe510fc27e92bb0013171</embedded_screen>
+        <embedded_screen display_value="Time off correction approval">ea219db1c3efe510fc27e92bb0013171</embedded_screen>
         <item_view/>
         <name>Time off correction app list item config</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

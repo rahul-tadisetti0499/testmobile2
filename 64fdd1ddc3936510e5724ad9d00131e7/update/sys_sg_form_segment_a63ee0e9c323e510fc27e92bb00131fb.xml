@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="About">123ee0e9c323e510fc27e92bb00131f8</embedded_screen>
-        <form display_value="Job Requisition approval record screen">e923a025c323e510fc27e92bb00131a4</form>
+        <form display_value="Job requisition approval">e923a025c323e510fc27e92bb00131a4</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

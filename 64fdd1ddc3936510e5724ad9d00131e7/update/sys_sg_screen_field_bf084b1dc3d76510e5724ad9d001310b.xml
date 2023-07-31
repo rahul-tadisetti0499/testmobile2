@@ -5,7 +5,7 @@
         <hidden>false</hidden>
         <order>20</order>
         <record_id_field/>
-        <screen display_value="Job Change">f1cd6259c3976510e5724ad9d00131c6</screen>
+        <screen display_value="About">f1cd6259c3976510e5724ad9d00131c6</screen>
         <screen_data_item_table>x_snc_wrkd_apr_mbl_job_change_database_view</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>abhi_user</sys_created_by>

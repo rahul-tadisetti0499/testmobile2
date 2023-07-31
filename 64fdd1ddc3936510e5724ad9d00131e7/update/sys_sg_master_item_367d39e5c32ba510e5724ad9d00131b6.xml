@@ -19,6 +19,6 @@
         <sys_updated_by>Sakshi</sys_updated_by>
         <sys_updated_on>2023-07-06 10:28:54</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Spend Auth More Details Card">0989e169c3e7a510e5724ad9d00131ef</view_config>
+        <view_config display_value="Spend Authorization Line Item Card">0989e169c3e7a510e5724ad9d00131ef</view_config>
     </sys_sg_master_item>
 </record_update>

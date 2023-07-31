@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="More details">db74a202c3632910e5724ad9d0013145</embedded_screen>
-        <form display_value="Termination approval record">1830e24ec3232910e5724ad9d00131a7</form>
+        <form display_value="Termination approval">1830e24ec3232910e5724ad9d00131a7</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>20</order>

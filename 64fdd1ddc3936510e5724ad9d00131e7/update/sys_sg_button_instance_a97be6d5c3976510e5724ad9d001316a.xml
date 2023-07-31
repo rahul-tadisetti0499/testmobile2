@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Timesheet Approval Workday URL function">697b2e55c3976510e5724ad9d0013130</button>
+        <button display_value="Timesheet Approval Navigate to Workday">697b2e55c3976510e5724ad9d0013130</button>
         <color_theme/>
         <description>Timesheet approval function instance</description>
         <disable_offline>false</disable_offline>

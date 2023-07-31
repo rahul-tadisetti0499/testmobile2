@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_71e96969c3e7a510e5724ad9d001311e</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-13 12:26:40</sys_updated_on>
-        <view_config display_value="Time off correction More details card">de37e5e5c3e7a510e5724ad9d001315c</view_config>
+        <view_config display_value="Time Off Correction Line Item Card">de37e5e5c3e7a510e5724ad9d001315c</view_config>
         <view_template_slot display_value="button_01">d2519c85c3047550fc27e92bb001318e</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

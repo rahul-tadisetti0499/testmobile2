@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="About">2256e4a9c327a510e5724ad9d00131fe</embedded_screen>
-        <form display_value="Spend Auth Record Screen">0656e4a9c327a510e5724ad9d00131e9</form>
+        <form display_value="Spend authorization approval">0656e4a9c327a510e5724ad9d00131e9</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

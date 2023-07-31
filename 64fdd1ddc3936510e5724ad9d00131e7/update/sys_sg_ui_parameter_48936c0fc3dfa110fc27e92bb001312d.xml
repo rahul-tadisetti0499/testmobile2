@@ -18,7 +18,7 @@
         <order/>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="Comment Record Screen">afb1a0cbc3dfa110fc27e92bb00131c8</screen>
+        <screen display_value="Comment ">afb1a0cbc3dfa110fc27e92bb00131c8</screen>
         <search_type>starts_with</search_type>
         <source_field>workday_id</source_field>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>

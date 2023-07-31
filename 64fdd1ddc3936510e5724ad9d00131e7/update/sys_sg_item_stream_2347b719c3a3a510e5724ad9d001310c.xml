@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Time correction data item">6747fbd5c3a3a510e5724ad9d0013133</data_item>
+        <data_item display_value="Time off correction data item">6747fbd5c3a3a510e5724ad9d0013133</data_item>
         <interleaved_field/>
         <name>Time off correction approval list stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

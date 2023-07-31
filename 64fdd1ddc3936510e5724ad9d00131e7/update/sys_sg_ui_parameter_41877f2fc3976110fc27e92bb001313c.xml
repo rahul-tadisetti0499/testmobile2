@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Job Change Workday Approve Request">436aabedc35fe510fc27e92bb00131b5</button>
+        <button display_value="Job change approval  Approve Request">436aabedc35fe510fc27e92bb00131b5</button>
         <button_parent_table>sn_hr_workday_job_change_request_todos</button_parent_table>
         <carried>false</carried>
         <constant/>

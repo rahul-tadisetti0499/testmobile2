@@ -18,7 +18,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 13:36:48</sys_updated_on>
         <table>sn_hr_workday_compensation_change_request_todos</table>
-        <template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</template>
+        <template display_value="">eca07458c38cb150fc27e92bb001317e</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=cb41d695c31fa510fc27e92bb0013135"/>
 </record_update>

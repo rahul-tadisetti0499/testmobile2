@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
     <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
-        <item_stream display_value="Job Requisition approval list stream">d56c1cadc3efa510fc27e92bb00131bb</item_stream>
-        <segment display_value="Job Requisition approval screen segment">d56c1cadc3efa510fc27e92bb00131b5</segment>
+        <item_stream display_value="Job requisition approval list stream">d56c1cadc3efa510fc27e92bb00131bb</item_stream>
+        <segment display_value="Job requisition approval screen segment">d56c1cadc3efa510fc27e92bb00131b5</segment>
         <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
         <sys_created_by>abhi_user</sys_created_by>
         <sys_created_on>2023-06-20 05:40:05</sys_created_on>

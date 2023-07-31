@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
     <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
-        <item_stream display_value="New list stream">88b6a1e5c3e7a510e5724ad9d0013146</item_stream>
-        <segment display_value="More Details Segment">c0b6a1e5c3e7a510e5724ad9d0013143</segment>
+        <item_stream display_value="Time off correction More details list stream">88b6a1e5c3e7a510e5724ad9d0013146</item_stream>
+        <segment display_value="More details screen segment">c0b6a1e5c3e7a510e5724ad9d0013143</segment>
         <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>
         <sys_created_on>2023-06-20 11:04:41</sys_created_on>

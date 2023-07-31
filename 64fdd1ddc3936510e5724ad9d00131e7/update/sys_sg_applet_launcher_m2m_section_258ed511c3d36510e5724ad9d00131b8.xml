@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Workday Approval Mobile">7f6e1111c3d36510e5724ad9d00131f2</applet_launcher>
         <order/>
-        <section display_value="Time Off Request Todos">e18ed511c3d36510e5724ad9d00131b7</section>
+        <section/>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>vits</sys_created_by>
         <sys_created_on>2023-06-07 05:34:50</sys_created_on>

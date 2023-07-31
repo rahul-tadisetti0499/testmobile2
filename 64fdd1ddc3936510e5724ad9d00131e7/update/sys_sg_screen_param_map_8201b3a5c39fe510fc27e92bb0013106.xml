@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="wd_id">9fe7a3adc35fe510fc27e92bb001316b</item_parameter>
-        <screen display_value="More Details">9465efe9c35fe510fc27e92bb001318f</screen>
+        <screen display_value="More details">9465efe9c35fe510fc27e92bb001318f</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>
         <sys_created_on>2023-06-08 10:53:38</sys_created_on>
@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_screen_param_map_8201b3a5c39fe510fc27e92bb0013106</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-06-08 10:53:38</sys_updated_on>
-        <ui_parameter display_value="Time Off Approval  UI Parameter 2">0cd5672dc35fe510fc27e92bb00131fd</ui_parameter>
+        <ui_parameter display_value="Workday ID">0cd5672dc35fe510fc27e92bb00131fd</ui_parameter>
     </sys_sg_screen_param_map>
 </record_update>

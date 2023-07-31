@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Spend authorization Navigate to URL">0435da3dc327e510e5724ad9d00131e9</button>
+        <button display_value="Spend authorization Navigate to Workday">0435da3dc327e510e5724ad9d00131e9</button>
         <color_theme/>
         <description>Spend authorization Navigate to workday function instance</description>
         <disable_offline>false</disable_offline>

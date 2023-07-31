@@ -11,7 +11,6 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>chan.s</sys_created_by>
             <sys_created_on>2023-06-19 13:30:09</sys_created_on>
-            <sys_id>dd6efc5dc327a510fc27e92bb0013197</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>Time off correction DB</sys_name>
             <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>

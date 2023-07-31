@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
-        <item_stream display_value="More Details Spend Auth list stream">ccdb35a5c32ba510e5724ad9d00131d9</item_stream>
-        <master_item display_value="More Details Spend Auth item config">367d39e5c32ba510e5724ad9d00131b6</master_item>
+        <item_stream display_value="More Details Spend authorization list stream">ccdb35a5c32ba510e5724ad9d00131d9</item_stream>
+        <master_item display_value="More Details Spend authorization item config">367d39e5c32ba510e5724ad9d00131b6</master_item>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-20 12:44:16</sys_created_on>

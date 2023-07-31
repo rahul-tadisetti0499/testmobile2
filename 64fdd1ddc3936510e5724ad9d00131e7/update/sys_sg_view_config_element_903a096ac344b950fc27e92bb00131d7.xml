@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_903a096ac344b950fc27e92bb00131d7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-18 08:05:29</sys_updated_on>
-        <view_config display_value="Spend authorization More Details Card">0989e169c3e7a510e5724ad9d00131ef</view_config>
+        <view_config display_value="Spend Authorization Line Item Card">0989e169c3e7a510e5724ad9d00131ef</view_config>
         <view_template_slot display_value="text_10">8ad709e6c344b950fc27e92bb00131b8</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

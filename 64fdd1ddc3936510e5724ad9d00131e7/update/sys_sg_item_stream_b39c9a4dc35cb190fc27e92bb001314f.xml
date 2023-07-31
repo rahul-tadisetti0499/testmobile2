@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Time off attachments data item">739c9a4dc35cb190fc27e92bb001314c</data_item>
+        <data_item display_value="Attachments data item">739c9a4dc35cb190fc27e92bb001314c</data_item>
         <interleaved_field/>
         <name>Time off approval attachments list stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

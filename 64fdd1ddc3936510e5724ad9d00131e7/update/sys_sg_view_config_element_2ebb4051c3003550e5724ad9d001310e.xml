@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_2ebb4051c3003550e5724ad9d001310e</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-14 06:20:10</sys_updated_on>
-        <view_config display_value="Time off approval card">447e1111c3d36510e5724ad9d00131f6</view_config>
-        <view_template_slot display_value="req_approval_requested_for_avatar">93a6805dc3ccf150e5724ad9d0013110</view_template_slot>
+        <view_config display_value="Time Off Request Todos List Screen View Config">447e1111c3d36510e5724ad9d00131f6</view_config>
+        <view_template_slot display_value="requested_for_avatar">93a6805dc3ccf150e5724ad9d0013110</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

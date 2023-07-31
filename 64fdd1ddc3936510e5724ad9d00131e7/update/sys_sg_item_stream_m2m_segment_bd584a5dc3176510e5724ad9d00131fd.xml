@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
     <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
         <item_stream display_value="Timesheet approval list stream">a5584a5dc3176510e5724ad9d00131f8</item_stream>
-        <segment display_value="Timesheet approval requests list">5b16821dc3176510e5724ad9d00131e0</segment>
+        <segment display_value="Timesheet approval requests screen segment">5b16821dc3176510e5724ad9d00131e0</segment>
         <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
         <sys_created_by>vits</sys_created_by>
         <sys_created_on>2023-06-07 08:37:32</sys_created_on>

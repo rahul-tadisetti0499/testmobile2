@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Time off Correction Navigate to Workday">545bddf9c3efe510fc27e92bb00131b1</button>
+        <button display_value="Time off correction Navigate to Workday">545bddf9c3efe510fc27e92bb00131b1</button>
         <color_theme/>
         <description>Time off Correction View in workday function instance</description>
         <disable_offline>false</disable_offline>

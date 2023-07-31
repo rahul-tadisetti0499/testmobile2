@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_40ede079c3532910fc27e92bb001310a</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-06-08 15:19:14</sys_updated_on>
-        <view_config display_value="Time off Approval Record Screen Card">17daa8b5c3532910fc27e92bb001310c</view_config>
+        <view_config display_value="Time off approval record screen card">17daa8b5c3532910fc27e92bb001310c</view_config>
         <view_template_slot display_value="text_04">9b6eea51c39fa510fc27e92bb00131f6</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

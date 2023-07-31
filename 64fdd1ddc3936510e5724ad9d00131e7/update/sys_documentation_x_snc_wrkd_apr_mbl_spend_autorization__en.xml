@@ -11,7 +11,6 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>Sakshi</sys_created_by>
             <sys_created_on>2023-06-15 09:29:58</sys_created_on>
-            <sys_id>7701e3bfc39f6110e5724ad9d001312e</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>Spend Authorization DB View</sys_name>
             <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>

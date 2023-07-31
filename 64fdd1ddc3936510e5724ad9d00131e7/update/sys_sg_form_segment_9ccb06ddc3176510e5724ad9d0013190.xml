@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Timesheet approval details">4ccb06ddc3176510e5724ad9d001318d</embedded_screen>
-        <form display_value="Timesheet approval record">59aa42ddc3176510e5724ad9d00131d5</form>
+        <embedded_screen display_value="About">4ccb06ddc3176510e5724ad9d001318d</embedded_screen>
+        <form display_value="Timesheet approval">59aa42ddc3176510e5724ad9d00131d5</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

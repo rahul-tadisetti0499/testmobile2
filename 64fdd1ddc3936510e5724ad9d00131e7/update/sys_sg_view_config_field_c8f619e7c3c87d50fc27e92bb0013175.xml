@@ -13,6 +13,6 @@
         <sys_update_name>sys_sg_view_config_field_c8f619e7c3c87d50fc27e92bb0013175</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-21 11:35:14</sys_updated_on>
-        <view_config display_value="Compensation change card">cb41d695c31fa510fc27e92bb0013135</view_config>
+        <view_config display_value="Compensation change config">cb41d695c31fa510fc27e92bb0013135</view_config>
     </sys_sg_view_config_field>
 </record_update>

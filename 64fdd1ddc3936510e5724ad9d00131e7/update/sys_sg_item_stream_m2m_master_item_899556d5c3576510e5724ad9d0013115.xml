@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
-        <item_stream display_value="Job Change">2dec8211c3576510e5724ad9d0013181</item_stream>
-        <master_item display_value="New list item config">81955295c3576510e5724ad9d00131a4</master_item>
+        <item_stream display_value="Job change approval list stream">2dec8211c3576510e5724ad9d0013181</item_stream>
+        <master_item display_value="Job Change list item config">81955295c3576510e5724ad9d00131a4</master_item>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>abhi_user</sys_created_by>
         <sys_created_on>2023-06-07 09:35:22</sys_created_on>

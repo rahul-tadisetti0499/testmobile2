@@ -5,7 +5,7 @@
         <max_offline_rows>500</max_offline_rows>
         <name>Time off approval stream segment</name>
         <order>0</order>
-        <screen display_value="Time off approval list screen">327e9511c3d36510e5724ad9d00131e3</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>vits</sys_created_by>
         <sys_created_on>2023-06-07 05:34:39</sys_created_on>

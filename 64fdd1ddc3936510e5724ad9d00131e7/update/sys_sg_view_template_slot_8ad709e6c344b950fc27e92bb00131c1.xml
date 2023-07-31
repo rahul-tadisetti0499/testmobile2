@@ -14,6 +14,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-18 07:55:14</sys_updated_on>
         <type>text</type>
-        <view_template display_value="Spend Authorization Test">9025b8a6c304b950fc27e92bb00131b4</view_template>
+        <view_template display_value="">9025b8a6c304b950fc27e92bb00131b4</view_template>
     </sys_sg_view_template_slot>
 </record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
     <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
-        <button display_value="Time off Approval Comment function">fb7f2fa1c39fe510fc27e92bb0013184</button>
+        <button display_value=" Comment function">fb7f2fa1c39fe510fc27e92bb0013184</button>
         <button_table>x_snc_wrkd_apr_mbl_time_off_approvals_db</button_table>
         <constant_value/>
         <destination_ui_parameter display_value="Comment UI parameter">48936c0fc3dfa110fc27e92bb001312d</destination_ui_parameter>

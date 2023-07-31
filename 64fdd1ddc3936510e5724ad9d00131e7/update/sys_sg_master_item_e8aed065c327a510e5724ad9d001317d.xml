@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>sn_hr_workday_spend_authorization_request_todos</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Spend Auth Record Screen">0656e4a9c327a510e5724ad9d00131e9</embedded_screen>
+        <embedded_screen display_value="Spend authorization approval">0656e4a9c327a510e5724ad9d00131e9</embedded_screen>
         <item_view/>
         <name>Spend authorization list item config</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
@@ -19,6 +19,6 @@
         <sys_updated_by>Sakshi</sys_updated_by>
         <sys_updated_on>2023-07-06 09:41:47</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Spend Auth view config">28ae1025c327a510e5724ad9d00131ad</view_config>
+        <view_config display_value="Spend authorization view config">28ae1025c327a510e5724ad9d00131ad</view_config>
     </sys_sg_master_item>
 </record_update>

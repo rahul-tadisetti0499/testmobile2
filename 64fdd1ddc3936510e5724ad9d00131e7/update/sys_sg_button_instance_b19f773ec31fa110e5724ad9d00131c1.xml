@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="compensationChangeURL">a9b97ff6c31fa110e5724ad9d0013183</button>
+        <button display_value="Compensation change Navigate to Workday">a9b97ff6c31fa110e5724ad9d0013183</button>
         <color_theme/>
         <description>Compensation change URL Instance function instance</description>
         <disable_offline>false</disable_offline>

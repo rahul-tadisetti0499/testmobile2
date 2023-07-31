@@ -18,7 +18,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 13:46:29</sys_updated_on>
         <table>x_snc_wrkd_apr_mbl_spend_autorization</table>
-        <template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</template>
+        <template display_value="">eca07458c38cb150fc27e92bb001317e</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=3d56e4a9c327a510e5724ad9d00131e6"/>
 </record_update>

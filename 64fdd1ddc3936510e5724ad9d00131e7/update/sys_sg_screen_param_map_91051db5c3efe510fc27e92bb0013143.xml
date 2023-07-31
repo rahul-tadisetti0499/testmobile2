@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="wd_id">48230061c3e3a510e5724ad9d00131f5</item_parameter>
-        <screen display_value="Time off correction approval record screen">ea219db1c3efe510fc27e92bb0013171</screen>
+        <screen display_value="Time off correction approval">ea219db1c3efe510fc27e92bb0013171</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>
         <sys_created_on>2023-06-21 04:26:12</sys_created_on>
@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_screen_param_map_91051db5c3efe510fc27e92bb0013143</sys_update_name>
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-06-21 04:26:12</sys_updated_on>
-        <ui_parameter display_value="Correction Workday Id">d18455b5c3efe510fc27e92bb0013132</ui_parameter>
+        <ui_parameter display_value="Workday ID">d18455b5c3efe510fc27e92bb0013132</ui_parameter>
     </sys_sg_screen_param_map>
 </record_update>

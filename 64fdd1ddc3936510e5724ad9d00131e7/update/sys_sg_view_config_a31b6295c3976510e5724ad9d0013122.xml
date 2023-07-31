@@ -18,7 +18,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 13:47:36</sys_updated_on>
         <table>x_snc_wrkd_apr_mbl_job_change_database_view</table>
-        <template display_value="Workday approval card template-copy">eca07458c38cb150fc27e92bb001317e</template>
+        <template display_value="">eca07458c38cb150fc27e92bb001317e</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=a31b6295c3976510e5724ad9d0013122"/>
 </record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
     <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
-        <item_stream display_value="Compensation Change">1524865dc3dba510fc27e92bb001319d</item_stream>
-        <segment display_value="Compensation Change Screen Segment">6024865dc3dba510fc27e92bb0013197</segment>
+        <item_stream display_value="Compensation change List Stream">1524865dc3dba510fc27e92bb001319d</item_stream>
+        <segment display_value="Compensation change Screen Segment">6024865dc3dba510fc27e92bb0013197</segment>
         <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-07 08:19:12</sys_created_on>

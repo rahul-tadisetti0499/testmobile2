@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_f15fd865c327a510e5724ad9d0013174</sys_update_name>
         <sys_updated_by>Sakshi</sys_updated_by>
         <sys_updated_on>2023-06-20 05:52:57</sys_updated_on>
-        <view_config display_value="Spend Auth view config">28ae1025c327a510e5724ad9d00131ad</view_config>
+        <view_config display_value="Spend authorization view config">28ae1025c327a510e5724ad9d00131ad</view_config>
         <view_template_slot display_value="text_05">a76eea51c39fa510fc27e92bb00131fb</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

@@ -14,6 +14,6 @@
         <sys_updated_by>Sakshi</sys_updated_by>
         <sys_updated_on>2023-06-22 10:40:43</sys_updated_on>
         <type>text</type>
-        <view_template display_value="Spend Auth More Details template">c322f346c3272910e5724ad9d001313b</view_template>
+        <view_template display_value="">c322f346c3272910e5724ad9d001313b</view_template>
     </sys_sg_view_template_slot>
 </record_update>
