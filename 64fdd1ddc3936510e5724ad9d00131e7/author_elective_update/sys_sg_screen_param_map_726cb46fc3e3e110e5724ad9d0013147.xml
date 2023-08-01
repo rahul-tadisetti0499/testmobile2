@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="DELETE">
+        <item_parameter display_value="workday_id">c05aff5bc323e110e5724ad9d001317f</item_parameter>
+        <screen display_value="Leave of absence approval">14f8375bc323e110e5724ad9d00131a0</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2023-06-26 13:08:11</sys_created_on>
+        <sys_id>726cb46fc3e3e110e5724ad9d0013147</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c05aff5bc323e110e5724ad9d001317f</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_726cb46fc3e3e110e5724ad9d0013147</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2023-06-26 13:08:11</sys_updated_on>
+        <ui_parameter display_value="workday_id">46aab79bc323e110e5724ad9d0013136</ui_parameter>
+    </sys_sg_screen_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</application>
+        <file_path/>
+        <instance_id>81521bcfdb40719439639027c596197f</instance_id>
+        <instance_name>jarfiles</instance_name>
+        <name>sys_sg_screen_param_map_726cb46fc3e3e110e5724ad9d0013147</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map"><sys_sg_screen_param_map action="INSERT_OR_UPDATE"><item_parameter display_value="workday_id">c05aff5bc323e110e5724ad9d001317f</item_parameter><screen display_value="Leave of absence approval">14f8375bc323e110e5724ad9d00131a0</screen><sys_class_name>sys_sg_screen_param_map</sys_class_name><sys_created_by>Sakshi</sys_created_by><sys_created_on>2023-06-26 13:08:11</sys_created_on><sys_id>726cb46fc3e3e110e5724ad9d0013147</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c05aff5bc323e110e5724ad9d001317f</sys_name><sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package><sys_policy/><sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope><sys_update_name>sys_sg_screen_param_map_726cb46fc3e3e110e5724ad9d0013147</sys_update_name><sys_updated_by>Sakshi</sys_updated_by><sys_updated_on>2023-06-26 13:08:11</sys_updated_on><ui_parameter display_value="workday_id">46aab79bc323e110e5724ad9d0013136</ui_parameter></sys_sg_screen_param_map></record_update>]]></payload>
+        <payload_hash>-1079471298</payload_hash>
+        <record_name>c05aff5bc323e110e5724ad9d001317f</record_name>
+        <reverted_from/>
+        <source>d2da2d3e83dcf51023cbd0226daad383</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rahul.tadisetti@snc</sys_created_by>
+        <sys_created_on>2023-07-31 15:24:35</sys_created_on>
+        <sys_id>db5b61be83dcf51023cbd0226daad3ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189ac8d1ac00000001</sys_recorded_at>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-07-31 15:24:35</sys_updated_on>
+        <type>Screen parameters mapping</type>
+        <update_guid>3b7cb46fc6e3e110b0ad2a3e8d866cc7</update_guid>
+        <update_guid_history>3b7cb46fc6e3e110b0ad2a3e8d866cc7:-1079471298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2023-08-01 05:27:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_param_map">sys_sg_screen_param_map</sys_db_object>
+        <sys_id>25b3d212975d427389e4e35f21e9f939</sys_id>
+        <sys_metadata>726cb46fc3e3e110e5724ad9d0013147</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c05aff5bc323e110e5724ad9d001317f</sys_name>
+        <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
+        <sys_scope_delete display_value="">2f18b1f6a19343b094a564e7c6c51da4</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_param_map_726cb46fc3e3e110e5724ad9d0013147</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_param_map_726cb46fc3e3e110e5724ad9d0013147">db5b61be83dcf51023cbd0226daad3ba</sys_update_version>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2023-08-01 05:27:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

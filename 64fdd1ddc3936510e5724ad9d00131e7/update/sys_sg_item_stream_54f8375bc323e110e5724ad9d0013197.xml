@@ -2,19 +2,19 @@
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
         <data_item display_value="Leave of absence data item">14f8375bc323e110e5724ad9d0013194</data_item>
         <interleaved_field/>
-        <name>Leave of absence list stream</name>
+        <name>Leave of Absence list stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-26 08:13:02</sys_created_on>
         <sys_id>54f8375bc323e110e5724ad9d0013197</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Leave of absence list stream</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Leave of Absence list stream</sys_name>
         <sys_package display_value="Workday Approval Mobile" source="x_snc_wrkd_apr_mbl">64fdd1ddc3936510e5724ad9d00131e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workday Approval Mobile">64fdd1ddc3936510e5724ad9d00131e7</sys_scope>
         <sys_update_name>sys_sg_item_stream_54f8375bc323e110e5724ad9d0013197</sys_update_name>
-        <sys_updated_by>Sakshi</sys_updated_by>
-        <sys_updated_on>2023-06-26 08:13:02</sys_updated_on>
+        <sys_updated_by>rahul.tadisetti@snc</sys_updated_by>
+        <sys_updated_on>2023-08-01 06:40:31</sys_updated_on>
         <table/>
     </sys_sg_item_stream>
 </record_update>
